@@ -35,8 +35,16 @@ section#telefone {
 
 }
 
-section#redes-sociais {
-    position: absolute;
+iframe#tela{
+   position: relative;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   
+   height: 67vh;
+   width: 41vw;
    
 }
+
+
 
